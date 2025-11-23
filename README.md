@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prescripto - Hospital Management System
 
 ## Description
@@ -77,3 +78,6 @@ Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare
 
 
 
+=======
+# Docify
+>>>>>>> 122e2e8373fa6a81d25de4bc396c51dde8bc5a2c
